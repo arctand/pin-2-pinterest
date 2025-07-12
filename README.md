@@ -1,7 +1,6 @@
 # Pin-to-Pinterest ― плагин для Figma
 
 Экспортирует выбранный фрейм в Pinterest одним кликом.  
-![Скриншот](preview.png)
 
 ## Как пользоваться
 1. Установите плагин из Figma Community  
