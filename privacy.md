@@ -1,6 +1,5 @@
-<!doctype html>
 <html lang="en">
-<head><meta charset="utf-8"><title>Privacy Policy</title></head>
+<head><meta charset="utf-8">Privacy Policy</head>
 <body>
   <h1>Privacy Policy – Pin-to-Pinterest</h1>
 
