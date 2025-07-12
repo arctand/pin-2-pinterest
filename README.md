@@ -1,12 +1,16 @@
-# Pin-to-Pinterest ― плагин для Figma
+# Pin-to-Pinterest – Figma plugin
 
-Экспортирует выбранный фрейм в Pinterest одним кликом.  
+Export selected Figma frames to any Pinterest board in one click.
 
-## Как пользоваться
-1. Установите плагин из Figma Community  
-2. Выберите фрейм → `⌘⇧P` → **Pin it**  
-3. Готово 🎉
+## Features
+- One-click “Pin it” button or ⌘⇧P hotkey  
+- Remembers the last board you used  
+- Stores your Pinterest OAuth token locally in Figma only  
 
----
-**GitHub:** <https://github.com/arctand/pin-to-pinterest>  
-**Поддержка:** arctand.design@gmail.com
+## How to use
+1. Install the plugin from Figma Community  
+2. Select a frame in your design  
+3. Press **Pin it** – done! 🎉  
+
+## Support
+Questions or feedback? open an issue or e-mail **arctand.design@gmail.com**
