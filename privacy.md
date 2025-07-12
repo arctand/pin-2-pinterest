@@ -13,6 +13,6 @@
 
   <p>To erase your token, open the plugin and click <em>Log out</em>.</p>
 
-  <p>Contact: support@example.com</p>
+  <p>Contact: arctand.design@gmail.com</p>
 </body>
 </html>
