@@ -9,5 +9,5 @@
 3. Готово 🎉
 
 ---
-**GitHub:** <https://github.com/ВАШ-ЛОГИН/pin-to-pinterest>  
-**Поддержка:** yourmail@example.com
+**GitHub:** <https://github.com/arctand/pin-to-pinterest>  
+**Поддержка:** arctand.design@gmail.com
